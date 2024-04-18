@@ -68,13 +68,3 @@ To fix this shortcoming
 The DecisionEngine demonstrates strong code organization and user-friendly design. However, it lacks crucial functionality
 regarding maximum loan calculation and credit score assessment, impacting lending decisions. Improvements are necessary 
 in algorithmic calculations, state management, and credit scoring implementation to fulfill requirements effectively.
-
-
-The DecisionEngine exhibits commendable strengths, especially in its clear and organized code structure. In addition, 
-the intuitive and user-friendly UI enhances the user experience, showing that the interface was thoughtfully designed.
-These positive aspects provide a solid foundation on which the necessary improvements can be built.
-
-While DecisionEngine has a strong foundation, it lacks in some critical functional areas. Solution does not fully meet
-the requirements for calculating the maximum possible loan amount and does not have a method for taking into account 
-customer credit score, which is necessary for making a lending decision. Some improvements are needed in calculating 
-algorithm and state management as well as implementation of the credit scoring algorithm.
